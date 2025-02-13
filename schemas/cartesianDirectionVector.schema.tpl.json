@@ -1,0 +1,4 @@
+{
+    "_type": "controlledTerms:CartesianDirectionVector",
+    "_extends": "controlledTerm.schema.tpl.json"
+}
